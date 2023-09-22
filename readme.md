@@ -1,11 +1,9 @@
-## LearnEd (E-learning Website)
+## E-learning Website Webizardy
 An educational website for students and programmers 😊😊😊  
-
-![](pcView.png)
-
-Try this out::  
-
-
+Team: VIRAL JAIN 21BCS11745 
+      MOKSH KUKREJA 21BCS11711
+      MOHIT CHAUDHARY 21BCS1295
+      
 Our Educational Website would provide all the education related stuffs:  
 Notes, Sample Papers, Online Video Lectures and courses to crack competitive  
 exams like JEE-Main, JEE-Advanced, GATE, etc. Students can clear their doubts  
